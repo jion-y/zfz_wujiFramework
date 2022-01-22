@@ -1,0 +1,6 @@
+use_frameworks!
+target 'wujicFrameWorkDemo_Tests' do
+  pod 'zfz_wujiframework', :path => '../'
+  
+  
+end

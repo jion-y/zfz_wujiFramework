@@ -1,0 +1,16 @@
+PODS:
+  - zfz_wujiframework (0.1.4)
+
+DEPENDENCIES:
+  - zfz_wujiframework (from `../`)
+
+EXTERNAL SOURCES:
+  zfz_wujiframework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  zfz_wujiframework: c2b4ac878dc5852322a0d8de8c3d6d2e4662837f
+
+PODFILE CHECKSUM: d9fe7b5d3a9718a8914d19b0a400013f42396b3b
+
+COCOAPODS: 1.11.2
